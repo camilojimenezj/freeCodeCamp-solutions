@@ -6,3 +6,6 @@ These are my solutions for freeCodeCamp courses about full stack development, I'
 
 ### [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [Basic Algorithm Scripting](https://github.com/camilojimenezj/freeCodeCamp-solutions/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting)
+* [Intermediate Algorithms and Data Structures](https://github.com/camilojimenezj/freeCodeCamp-solutions/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Intermediate%20Algorithm%20Scripting)
+
+
